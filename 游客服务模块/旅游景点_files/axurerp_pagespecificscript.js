@@ -1,46 +1,33 @@
-﻿for(var i = 0; i < 78; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 79; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u16'] = 'center';u46.tabIndex = 0;
+gv_vAlignTable['u21'] = 'center';gv_vAlignTable['u16'] = 'center';document.getElementById('u46_img').tabIndex = 0;
 
 u46.style.cursor = 'pointer';
 $axure.eventManager.click('u46', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Home.html');
+	NewTab($axure.globalVariableProvider.getLinkUrl('驴友论坛.html'), "");
 
 }
 });
-gv_vAlignTable['u46'] = 'top';gv_vAlignTable['u76'] = 'top';u48.tabIndex = 0;
+gv_vAlignTable['u68'] = 'top';u48.tabIndex = 0;
 
 u48.style.cursor = 'pointer';
 $axure.eventManager.click('u48', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('旅游线路.html');
-
 }
 });
-gv_vAlignTable['u48'] = 'top';gv_vAlignTable['u27'] = 'center';gv_vAlignTable['u32'] = 'top';gv_vAlignTable['u62'] = 'top';document.getElementById('u53_img').tabIndex = 0;
+gv_vAlignTable['u48'] = 'top';u32.tabIndex = 0;
 
-u53.style.cursor = 'pointer';
-$axure.eventManager.click('u53', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('旅游专家.html');
-
-}
-});
-gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u38'] = 'center';gv_vAlignTable['u7'] = 'center';gv_vAlignTable['u60'] = 'top';gv_vAlignTable['u64'] = 'top';gv_vAlignTable['u19'] = 'center';u49.tabIndex = 0;
-
-u49.style.cursor = 'pointer';
-$axure.eventManager.click('u49', function(e) {
+u32.style.cursor = 'pointer';
+$axure.eventManager.click('u32', function(e) {
 
 if (true) {
 
@@ -48,43 +35,10 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u49'] = 'top';gv_vAlignTable['u45'] = 'center';document.getElementById('u75_img').tabIndex = 0;
+gv_vAlignTable['u32'] = 'top';gv_vAlignTable['u23'] = 'center';gv_vAlignTable['u53'] = 'center';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u7'] = 'center';gv_vAlignTable['u67'] = 'top';u30.tabIndex = 0;
 
-u75.style.cursor = 'pointer';
-$axure.eventManager.click('u75', function(e) {
-
-if (true) {
-
-	NewTab($axure.globalVariableProvider.getLinkUrl('机票预订.html'), "");
-
-}
-});
-u66.tabIndex = 0;
-
-u66.style.cursor = 'pointer';
-$axure.eventManager.click('u66', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('注册.html');
-
-}
-});
-gv_vAlignTable['u66'] = 'top';document.getElementById('u57_img').tabIndex = 0;
-
-u57.style.cursor = 'pointer';
-$axure.eventManager.click('u57', function(e) {
-
-if (true) {
-
-	NewTab($axure.globalVariableProvider.getLinkUrl('导游信息.html'), "");
-
-}
-});
-gv_vAlignTable['u3'] = 'center';u47.tabIndex = 0;
-
-u47.style.cursor = 'pointer';
-$axure.eventManager.click('u47', function(e) {
+u30.style.cursor = 'pointer';
+$axure.eventManager.click('u30', function(e) {
 
 if (true) {
 
@@ -92,21 +46,74 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u47'] = 'top';u77.tabIndex = 0;
+gv_vAlignTable['u30'] = 'top';gv_vAlignTable['u64'] = 'center';u49.tabIndex = 0;
 
-u77.style.cursor = 'pointer';
-$axure.eventManager.click('u77', function(e) {
+u49.style.cursor = 'pointer';
+$axure.eventManager.click('u49', function(e) {
 
 if (true) {
 
-	NewTab($axure.globalVariableProvider.getLinkUrl('个人空间.html'), "");
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('注册.html');
 
 }
 });
-gv_vAlignTable['u77'] = 'top';gv_vAlignTable['u28'] = 'top';gv_vAlignTable['u20'] = 'top';u50.tabIndex = 0;
+gv_vAlignTable['u49'] = 'top';gv_vAlignTable['u41'] = 'top';gv_vAlignTable['u45'] = 'top';document.getElementById('u36_img').tabIndex = 0;
 
-u50.style.cursor = 'pointer';
-$axure.eventManager.click('u50', function(e) {
+u36.style.cursor = 'pointer';
+$axure.eventManager.click('u36', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('旅游专家.html');
+
+}
+});
+gv_vAlignTable['u66'] = 'center';gv_vAlignTable['u57'] = 'top';document.getElementById('u52_img').tabIndex = 0;
+
+u52.style.cursor = 'pointer';
+$axure.eventManager.click('u52', function(e) {
+
+if (true) {
+
+}
+});
+gv_vAlignTable['u43'] = 'top';gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u47'] = 'top';gv_vAlignTable['u77'] = 'center';gv_vAlignTable['u28'] = 'center';gv_vAlignTable['u71'] = 'top';u31.tabIndex = 0;
+
+u31.style.cursor = 'pointer';
+$axure.eventManager.click('u31', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('旅游线路.html');
+
+}
+});
+gv_vAlignTable['u31'] = 'top';gv_vAlignTable['u61'] = 'center';document.getElementById('u56_img').tabIndex = 0;
+
+u56.style.cursor = 'pointer';
+$axure.eventManager.click('u56', function(e) {
+
+if (true) {
+
+	NewTab($axure.globalVariableProvider.getLinkUrl('酒店预订.html'), "");
+
+}
+});
+gv_vAlignTable['u5'] = 'center';document.getElementById('u42_img').tabIndex = 0;
+
+u42.style.cursor = 'pointer';
+$axure.eventManager.click('u42', function(e) {
+
+if (true) {
+
+	NewTab($axure.globalVariableProvider.getLinkUrl('旅行社信息.html'), "");
+
+}
+});
+u33.tabIndex = 0;
+
+u33.style.cursor = 'pointer';
+$axure.eventManager.click('u33', function(e) {
 
 if (true) {
 
@@ -114,19 +121,62 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u54'] = 'center';document.getElementById('u69_img').tabIndex = 0;
+gv_vAlignTable['u33'] = 'top';
+u72.style.cursor = 'pointer';
+$axure.eventManager.click('u72', u72Click);
+InsertAfterBegin(document.body, "<div class='intcases' id='u72LinksClick'></div>")
+var u72LinksClick = document.getElementById('u72LinksClick');
+function u72Click(e) 
+{
+windowEvent = e;
 
-u69.style.cursor = 'pointer';
-$axure.eventManager.click('u69', function(e) {
+
+	ToggleLinks(e, 'u72LinksClick');
+}
+
+InsertBeforeEnd(u72LinksClick, "<div class='intcaselink' onmouseout='SuppressBubble(event)' onclick='u72Clicku9f11f28cfc284794a0298b4964a796f6(event)'>If login succeeds</div>");
+function u72Clicku9f11f28cfc284794a0298b4964a796f6(e)
+{
+
+	self.location.href='#';
+
+	ToggleLinks(e, 'u72LinksClick');
+}
+
+InsertBeforeEnd(u72LinksClick, "<div class='intcaselink' onmouseout='SuppressBubble(event)' onclick='u72Clicku1e1aa6c35d48496aac944aeebc6d5ec3(event)'>If login fails</div>");
+function u72Clicku1e1aa6c35d48496aac944aeebc6d5ec3(e)
+{
+
+	SetPanelVisibility('u73','','none',500);
+
+	ToggleLinks(e, 'u72LinksClick');
+}
+gv_vAlignTable['u37'] = 'center';document.getElementById('u58_img').tabIndex = 0;
+
+u58.style.cursor = 'pointer';
+$axure.eventManager.click('u58', function(e) {
 
 if (true) {
 
+	NewTab($axure.globalVariableProvider.getLinkUrl('机票预订.html'), "");
+
 }
 });
-document.getElementById('u61_img').tabIndex = 0;
+document.getElementById('u40_img').tabIndex = 0;
 
-u61.style.cursor = 'pointer';
-$axure.eventManager.click('u61', function(e) {
+u40.style.cursor = 'pointer';
+$axure.eventManager.click('u40', function(e) {
+
+if (true) {
+
+	NewTab($axure.globalVariableProvider.getLinkUrl('导游信息.html'), "");
+
+}
+});
+gv_vAlignTable['u14'] = 'center';document.getElementById('u44_img').tabIndex = 0;
+
+u44.style.cursor = 'pointer';
+$axure.eventManager.click('u44', function(e) {
 
 if (true) {
 
@@ -136,75 +186,15 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u35'] = 'top';u65.tabIndex = 0;
+gv_vAlignTable['u78'] = 'top';gv_vAlignTable['u74'] = 'top';u29.tabIndex = 0;
 
-u65.style.cursor = 'pointer';
-$axure.eventManager.click('u65', function(e) {
-
-if (true) {
-
-}
-});
-gv_vAlignTable['u65'] = 'top';gv_vAlignTable['u5'] = 'center';
-u33.style.cursor = 'pointer';
-$axure.eventManager.click('u33', u33Click);
-InsertAfterBegin(document.body, "<div class='intcases' id='u33LinksClick'></div>")
-var u33LinksClick = document.getElementById('u33LinksClick');
-function u33Click(e) 
-{
-windowEvent = e;
-
-
-	ToggleLinks(e, 'u33LinksClick');
-}
-
-InsertBeforeEnd(u33LinksClick, "<div class='intcaselink' onmouseout='SuppressBubble(event)' onclick='u33Clicku9f11f28cfc284794a0298b4964a796f6(event)'>If login succeeds</div>");
-function u33Clicku9f11f28cfc284794a0298b4964a796f6(e)
-{
-
-	self.location.href='#';
-
-	ToggleLinks(e, 'u33LinksClick');
-}
-
-InsertBeforeEnd(u33LinksClick, "<div class='intcaselink' onmouseout='SuppressBubble(event)' onclick='u33Clicku1e1aa6c35d48496aac944aeebc6d5ec3(event)'>If login fails</div>");
-function u33Clicku1e1aa6c35d48496aac944aeebc6d5ec3(e)
-{
-
-	SetPanelVisibility('u34','','none',500);
-
-	ToggleLinks(e, 'u33LinksClick');
-}
-document.getElementById('u63_img').tabIndex = 0;
-
-u63.style.cursor = 'pointer';
-$axure.eventManager.click('u63', function(e) {
+u29.style.cursor = 'pointer';
+$axure.eventManager.click('u29', function(e) {
 
 if (true) {
 
-	NewTab($axure.globalVariableProvider.getLinkUrl('驴友论坛.html'), "");
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Home.html');
 
 }
 });
-gv_vAlignTable['u58'] = 'top';gv_vAlignTable['u40'] = 'center';gv_vAlignTable['u70'] = 'center';gv_vAlignTable['u14'] = 'center';document.getElementById('u73_img').tabIndex = 0;
-
-u73.style.cursor = 'pointer';
-$axure.eventManager.click('u73', function(e) {
-
-if (true) {
-
-	NewTab($axure.globalVariableProvider.getLinkUrl('酒店预订.html'), "");
-
-}
-});
-gv_vAlignTable['u74'] = 'top';gv_vAlignTable['u29'] = 'top';document.getElementById('u59_img').tabIndex = 0;
-
-u59.style.cursor = 'pointer';
-$axure.eventManager.click('u59', function(e) {
-
-if (true) {
-
-	NewTab($axure.globalVariableProvider.getLinkUrl('旅行社信息.html'), "");
-
-}
-});
+gv_vAlignTable['u29'] = 'top';gv_vAlignTable['u59'] = 'top';

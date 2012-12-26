@@ -113,38 +113,33 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u79_normal.png");
 }
 
-* html .u90_normal {
+* html .u89_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u90_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u89_menu.png");
 }
 
-* html .u92_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u92_normal.png");
-}
-
-* html .u95_menu {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u95_menu.png");
-}
-
-* html .u97_normal {
+* html .u91_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u75_normal.png");
 }
 
-* html .u99_menu {
+* html .u93_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u99_menu.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u93_menu.png");
 }
 
-* html .u101_normal {
+* html .u95_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u79_normal.png");
 }
 
-* html .u103_normal {
+* html .u97_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u79_normal.png");
+}
+
+* html .u100_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅行社信息_files/u100_normal.png");
 }
 

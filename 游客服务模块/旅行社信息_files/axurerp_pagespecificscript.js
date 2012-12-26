@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 106; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 103; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -15,7 +15,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u68'] = 'top';gv_vAlignTable['u76'] = 'center';gv_vAlignTable['u27'] = 'center';gv_vAlignTable['u93'] = 'center';gv_vAlignTable['u8'] = 'top';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u53'] = 'center';document.getElementById('u85_img').tabIndex = 0;
+gv_vAlignTable['u68'] = 'top';gv_vAlignTable['u76'] = 'center';gv_vAlignTable['u27'] = 'center';gv_vAlignTable['u8'] = 'top';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u53'] = 'center';document.getElementById('u85_img').tabIndex = 0;
 
 u85.style.cursor = 'pointer';
 $axure.eventManager.click('u85', function(e) {
@@ -26,10 +26,10 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u7'] = 'center';document.getElementById('u103_img').tabIndex = 0;
+gv_vAlignTable['u7'] = 'center';document.getElementById('u97_img').tabIndex = 0;
 
-u103.style.cursor = 'pointer';
-$axure.eventManager.click('u103', function(e) {
+u97.style.cursor = 'pointer';
+$axure.eventManager.click('u97', function(e) {
 
 if (true) {
 
@@ -37,16 +37,7 @@ if (true) {
 
 }
 });
-document.getElementById('u97_img').tabIndex = 0;
-
-u97.style.cursor = 'pointer';
-$axure.eventManager.click('u97', function(e) {
-
-if (true) {
-
-}
-});
-gv_vAlignTable['u104'] = 'top';gv_vAlignTable['u67'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u49'] = 'top';document.getElementById('u79_img').tabIndex = 0;
+gv_vAlignTable['u67'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u49'] = 'top';document.getElementById('u79_img').tabIndex = 0;
 
 u79.style.cursor = 'pointer';
 $axure.eventManager.click('u79', function(e) {
@@ -88,7 +79,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u87'] = 'top';gv_vAlignTable['u2'] = 'center';document.getElementById('u83_img').tabIndex = 0;
+gv_vAlignTable['u87'] = 'top';gv_vAlignTable['u2'] = 'center';gv_vAlignTable['u92'] = 'center';document.getElementById('u83_img').tabIndex = 0;
 
 u83.style.cursor = 'pointer';
 $axure.eventManager.click('u83', function(e) {
@@ -141,18 +132,7 @@ function u47Clickuc5428dd89b2f4da2825369ed3b191a27(e)
 
 	ToggleLinks(e, 'u47LinksClick');
 }
-gv_vAlignTable['u20'] = 'center';document.getElementById('u101_img').tabIndex = 0;
-
-u101.style.cursor = 'pointer';
-$axure.eventManager.click('u101', function(e) {
-
-if (true) {
-
-	NewTab($axure.globalVariableProvider.getLinkUrl('酒店预订.html'), "");
-
-}
-});
-gv_vAlignTable['u98'] = 'center';gv_vAlignTable['u39'] = 'center';u69.tabIndex = 0;
+gv_vAlignTable['u20'] = 'center';gv_vAlignTable['u101'] = 'center';gv_vAlignTable['u98'] = 'top';gv_vAlignTable['u39'] = 'center';u69.tabIndex = 0;
 
 u69.style.cursor = 'pointer';
 $axure.eventManager.click('u69', function(e) {
@@ -174,7 +154,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u71'] = 'top';gv_vAlignTable['u61'] = 'center';
+gv_vAlignTable['u71'] = 'top';gv_vAlignTable['u96'] = 'top';gv_vAlignTable['u61'] = 'center';
 $axure.eventManager.mouseover('u35', function(e) {
 if (!IsTrueMouseOver('u35',e)) return;
 if (true) {
@@ -205,18 +185,18 @@ if (true) {
 
 }
 });
-u105.tabIndex = 0;
+document.getElementById('u95_img').tabIndex = 0;
 
-u105.style.cursor = 'pointer';
-$axure.eventManager.click('u105', function(e) {
+u95.style.cursor = 'pointer';
+$axure.eventManager.click('u95', function(e) {
 
 if (true) {
 
-	NewTab($axure.globalVariableProvider.getLinkUrl('个人空间.html'), "");
+	NewTab($axure.globalVariableProvider.getLinkUrl('酒店预订.html'), "");
 
 }
 });
-gv_vAlignTable['u105'] = 'top';gv_vAlignTable['u82'] = 'top';gv_vAlignTable['u12'] = 'center';gv_vAlignTable['u42'] = 'top';
+gv_vAlignTable['u82'] = 'top';gv_vAlignTable['u12'] = 'center';gv_vAlignTable['u42'] = 'top';
 $axure.eventManager.mouseover('u33', function(e) {
 if (!IsTrueMouseOver('u33',e)) return;
 if (true) {
@@ -280,4 +260,12 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u91'] = 'center';
+document.getElementById('u91_img').tabIndex = 0;
+
+u91.style.cursor = 'pointer';
+$axure.eventManager.click('u91', function(e) {
+
+if (true) {
+
+}
+});

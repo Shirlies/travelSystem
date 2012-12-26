@@ -1,51 +1,46 @@
-﻿* html .u1_normal {
+﻿* html .u0_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u1_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u0_normal.png");
 }
 
-* html .u4_normal {
+* html .u5_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u4_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u5_normal.png");
 }
 
-* html .u10_normal {
+* html .u7_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u10_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u7_normal.png");
 }
 
-* html .u12_normal {
+* html .u13_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u12_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u13_normal.png");
 }
 
-* html .u14_normal {
+* html .u15_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u14_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u15_normal.png");
 }
 
-* html .u18_normal {
+* html .u19_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u14_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u19_normal.png");
 }
 
-* html .u20_normal {
+* html .u26_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u12_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u26_menu.png");
 }
 
-* html .u23_normal {
+* html .u28_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u12_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u28_normal.png");
 }
 
-* html .u25_normal {
+* html .u30_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u14_normal.png");
-}
-
-* html .u30_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u30_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u30_menu.png");
 }
 
 * html .u32_normal {
@@ -53,34 +48,74 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u32_normal.png");
 }
 
+* html .u34_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u32_normal.png");
+}
+
+* html .u36_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u36_normal.png");
+}
+
+* html .u38_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u32_normal.png");
+}
+
+* html .u42_menu {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u42_menu.png");
+}
+
 * html .u44_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u44_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u28_normal.png");
 }
 
-* html .u46_normal {
+* html .u46_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u46_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u46_menu.png");
 }
 
-* html .u52_normal {
+* html .u48_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u52_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u32_normal.png");
 }
 
-* html .u54_normal {
+* html .u50_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u54_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u32_normal.png");
 }
 
-* html .u58_normal {
+* html .u55_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u58_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u55_normal.png");
 }
 
-* html .u65_menu {
+* html .u57_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u65_menu.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u57_normal.png");
+}
+
+* html .u59_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u59_normal.png");
+}
+
+* html .u61_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u61_normal.png");
+}
+
+* html .u63_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u63_normal.png");
+}
+
+* html .u65_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u65_normal.png");
 }
 
 * html .u67_normal {
@@ -88,63 +123,13 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u67_normal.png");
 }
 
-* html .u69_menu {
+* html .u70_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u69_menu.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u70_normal.png");
 }
 
-* html .u71_normal {
+* html .u72_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u71_normal.png");
-}
-
-* html .u73_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u71_normal.png");
-}
-
-* html .u75_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u75_normal.png");
-}
-
-* html .u77_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u71_normal.png");
-}
-
-* html .u82_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u82_normal.png");
-}
-
-* html .u84_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u84_normal.png");
-}
-
-* html .u87_menu {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u87_menu.png");
-}
-
-* html .u89_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u67_normal.png");
-}
-
-* html .u91_menu {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u91_menu.png");
-}
-
-* html .u93_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u71_normal.png");
-}
-
-* html .u95_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u71_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="导游信息_files/u72_normal.png");
 }
 
