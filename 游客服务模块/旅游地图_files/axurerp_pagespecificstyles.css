@@ -1,0 +1,1829 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../旅游地图_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:112px;
+    width:1360px;
+    height:30px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1366px;
+    height:36px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:1356px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../旅游地图_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1360px;
+    height:111px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1366px;
+    height:117px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:1356px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:1220px;
+    top:0px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u4_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u5 {
+    position:absolute;
+    left:1100px;
+    top:0px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u5_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u6_normal {
+    background-image: url('../旅游地图_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:320px;
+    top:0px;
+    width:650px;
+    height:110px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:650px;
+    height:110px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:47px;
+    width:646px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:325px;
+    top:118px;
+    width:60px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:398px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:498px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:798px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:698px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_menu {
+    background-image: url('../旅游地图_files/u13_menu.png');
+}
+
+.u13_menu {
+    position:absolute;
+    left:595px;
+    top:109px;
+    width:99px;
+    height:40px;
+}
+
+#u13_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:37px;
+}
+
+#u14 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:89px;
+    height:30px
+}
+
+.u15_normal {
+    background-image: url('../旅游地图_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:25px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:31px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_menu {
+    background-image: url('../旅游地图_files/u17_menu.png');
+}
+
+.u17_menu {
+    position:absolute;
+    left:84px;
+    top:0px;
+    width:128px;
+    height:120px;
+}
+
+#u17_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:117px;
+}
+
+#u18 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:118px;
+    height:110px
+}
+
+.u19_normal {
+    background-image: url('../旅游地图_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:113px;
+    height:25px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../旅游地图_files/u19_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:25px;
+    width:113px;
+    height:25px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../旅游地图_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:113px;
+    height:30px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:36px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../旅游地图_files/u19_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:113px;
+    height:25px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:1150px;
+    top:144px;
+    width:30px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:1200px;
+    top:144px;
+    width:30px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../旅游地图_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:210px;
+    top:168px;
+    width:890px;
+    height:94px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:896px;
+    height:100px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:886px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../旅游地图_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:211px;
+    top:182px;
+    width:233px;
+    height:80px;
+}
+
+#u31_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:233px;
+    height:80px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:229px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:560px;
+    top:225px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u33_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u34 {
+    position:absolute;
+    left:760px;
+    top:225px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u34_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u35_normal {
+    background-image: url('../旅游地图_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:523px;
+    top:225px;
+    width:27px;
+    height:23px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:27px;
+    height:23px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../旅游地图_files/u37_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:210px;
+    top:290px;
+    width:889px;
+    height:27px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:895px;
+    height:33px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:885px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../旅游地图_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:211px;
+    top:317px;
+    width:889px;
+    height:163px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:895px;
+    height:169px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:885px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../旅游地图_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:250px;
+    top:330px;
+    width:90px;
+    height:70px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:90px;
+    height:70px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:260px;
+    top:410px;
+    width:70px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../旅游地图_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:211px;
+    top:489px;
+    width:270px;
+    height:31px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:276px;
+    height:37px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:266px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../旅游地图_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:211px;
+    top:519px;
+    width:270px;
+    height:341px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:276px;
+    height:347px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:162px;
+    width:266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../旅游地图_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:211px;
+    top:519px;
+    width:90px;
+    height:31px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:37px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../旅游地图_files/u48_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:301px;
+    top:519px;
+    width:90px;
+    height:31px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:37px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../旅游地图_files/u48_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:391px;
+    top:519px;
+    width:90px;
+    height:31px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:37px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u54 {
+    position:absolute;
+    left:211px;
+    top:550px;
+    width:271px;
+    height:311px;
+    overflow:hidden;
+}
+
+#pd0u54 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:271px;
+    height:311px;
+    
+}
+
+.u55_normal {
+    background-image: url('../旅游地图_files/u55_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:270px;
+    height:310px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:276px;
+    height:316px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:147px;
+    width:266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:0px;
+    top:10px;
+    width:190px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u58 {
+    position:absolute;
+    left:211px;
+    top:550px;
+    width:271px;
+    height:311px;
+    overflow:hidden;
+}
+
+#pd0u58 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:271px;
+    height:311px;
+    
+}
+
+.u59_normal {
+    background-image: url('../旅游地图_files/u55_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:270px;
+    height:310px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:276px;
+    height:316px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:147px;
+    width:266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:210px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u62 {
+    position:absolute;
+    left:211px;
+    top:550px;
+    width:271px;
+    height:311px;
+    overflow:hidden;
+}
+
+#pd0u62 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:271px;
+    height:311px;
+    
+}
+
+.u63_normal {
+    background-image: url('../旅游地图_files/u55_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:270px;
+    height:310px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:276px;
+    height:316px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:147px;
+    width:266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:10px;
+    top:17px;
+    width:210px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../旅游地图_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:508px;
+    top:490px;
+    width:592px;
+    height:620px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:598px;
+    height:626px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:302px;
+    width:588px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:523px;
+    top:537px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../旅游地图_files/u69_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:508px;
+    top:490px;
+    width:591px;
+    height:30px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:597px;
+    height:36px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:587px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:508px;
+    top:1141px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:668px;
+    top:1137px;
+    width:102px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u72_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u73 {
+    position:absolute;
+    left:780px;
+    top:1137px;
+    width:120px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u73_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u74 {
+    position:absolute;
+    left:910px;
+    top:1137px;
+    width:90px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u74_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u75 {
+    position:absolute;
+    left:1020px;
+    top:1143px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u76 {
+    position:fixed;
+    left:0px;
+    top: 50%;
+    margin-top: -160px;
+    width:111px;
+    height:321px;
+    overflow:hidden;
+}
+
+#pd0u76 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:111px;
+    height:321px;
+    
+}
+
+.u77_normal {
+    background-image: url('../旅游地图_files/u77_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:110px;
+    height:300px;
+}
+
+#u77_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:300px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:142px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../旅游地图_files/u79_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:20px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:26px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:88px;
+    top:300px;
+    width:20px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u81_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u82_menu {
+    background-image: url('../旅游地图_files/u82_menu.png');
+}
+
+.u82_menu {
+    position:absolute;
+    left:895px;
+    top:109px;
+    width:99px;
+    height:40px;
+}
+
+#u82_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:37px;
+}
+
+#u83 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:89px;
+    height:30px
+}
+
+.u84_normal {
+    background-image: url('../旅游地图_files/u15_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:25px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:31px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_menu {
+    background-image: url('../旅游地图_files/u86_menu.png');
+}
+
+.u86_menu {
+    position:absolute;
+    left:84px;
+    top:0px;
+    width:128px;
+    height:65px;
+}
+
+#u86_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:62px;
+}
+
+#u87 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:118px;
+    height:55px
+}
+
+.u88_normal {
+    background-image: url('../旅游地图_files/u19_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:113px;
+    height:25px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../旅游地图_files/u19_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:0px;
+    top:25px;
+    width:113px;
+    height:25px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u92 {
+    position:absolute;
+    left:410px;
+    top:230px;
+    width:451px;
+    height:241px;
+    overflow:hidden;
+}
+
+#pd0u92 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:451px;
+    height:241px;
+    
+}
+
+.u93_normal {
+    background-image: url('../旅游地图_files/u93_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:450px;
+    height:30px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:456px;
+    height:36px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:446px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../旅游地图_files/u95_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:450px;
+    height:210px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:456px;
+    height:216px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:97px;
+    width:446px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:60px;
+    top:84px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98 {
+    position:absolute;
+    left:60px;
+    top:129px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99 {
+    position:absolute;
+    left:129px;
+    top:81px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u99_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u100 {
+    position:absolute;
+    left:130px;
+    top:125px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u100_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u101 {
+    position:absolute;
+    left:320px;
+    top:134px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:111px;
+    top:179px;
+    width:56px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u102_text_sketch {
+    font-family: 'Applied Font';
+}
+
+#u103 {
+    position:absolute;
+    left:111px;
+    top:214px;
+    width:160px;
+    height:27px;
+    overflow:hidden;
+}
+
+#pd0u103 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:160px;
+    height:27px;
+    
+}
+
+.u104 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:210px;
+    top:179px;
+    width:60px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u105_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u106 {
+    position:absolute;
+    left:1250px;
+    top:144px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
