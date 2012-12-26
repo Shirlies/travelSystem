@@ -103,3 +103,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Home_files/u39_line.png");
 }
 
+* html .u69_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Home_files/u69_normal.png");
+}
+

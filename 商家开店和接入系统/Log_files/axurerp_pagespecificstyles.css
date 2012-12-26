@@ -472,3 +472,81 @@ div {
     word-wrap:break-word;
 }
 
+.u27_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:1362px;
+    height:80px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1362px;
+    height:80px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1358px;
+    height:57px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../Log_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:767px;
+    top:174px;
+    width:335px;
+    height:226px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:335px;
+    height:226px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:105px;
+    width:331px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:777px;
+    top:184px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

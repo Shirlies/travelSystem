@@ -13,3 +13,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Register_files/u32_normal.png");
 }
 
+* html .u42_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Register_files/u42_normal.png");
+}
+
