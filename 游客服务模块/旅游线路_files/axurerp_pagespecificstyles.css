@@ -1,0 +1,1264 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../旅游线路_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:200px;
+    top:170px;
+    width:200px;
+    height:30px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:36px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:196px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../旅游线路_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:200px;
+    top:200px;
+    width:200px;
+    height:190px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:196px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:87px;
+    width:196px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../旅游线路_files/u0_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:200px;
+    top:420px;
+    width:200px;
+    height:30px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:36px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:196px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../旅游线路_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:200px;
+    top:450px;
+    width:200px;
+    height:120px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:126px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:196px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:210px;
+    top:470px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u8_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u9 {
+    position:absolute;
+    left:252px;
+    top:520px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u9_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u10_normal {
+    background-image: url('../旅游线路_files/u0_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:200px;
+    top:600px;
+    width:200px;
+    height:30px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:36px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:196px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../旅游线路_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:200px;
+    top:630px;
+    width:200px;
+    height:290px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:296px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:137px;
+    width:196px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:350px;
+    top:900px;
+    width:50px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:670px;
+    top:170px;
+    width:230px;
+    height:50px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'隶书';
+    font-size: 36px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u15_text_sketch {
+    font-family: 'Applied Font';
+}
+
+#u17 {
+    position:absolute;
+    left:410px;
+    top:230px;
+    width:451px;
+    height:241px;
+    overflow:hidden;
+}
+
+#pd0u17 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:451px;
+    height:241px;
+    
+}
+
+.u18_normal {
+    background-image: url('../旅游线路_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:450px;
+    height:30px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:456px;
+    height:36px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:446px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../旅游线路_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:0px;
+    top:30px;
+    width:450px;
+    height:210px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:456px;
+    height:216px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:97px;
+    width:446px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:60px;
+    top:84px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:60px;
+    top:129px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:129px;
+    top:81px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u24_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u25 {
+    position:absolute;
+    left:130px;
+    top:125px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u25_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u26 {
+    position:absolute;
+    left:320px;
+    top:134px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:111px;
+    top:179px;
+    width:56px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u27_text_sketch {
+    font-family: 'Applied Font';
+}
+
+#u28 {
+    position:absolute;
+    left:111px;
+    top:214px;
+    width:160px;
+    height:27px;
+    overflow:hidden;
+}
+
+#pd0u28 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:160px;
+    height:27px;
+    
+}
+
+.u29 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:210px;
+    top:179px;
+    width:60px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u30_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u31 {
+    position:absolute;
+    left:630px;
+    top:870px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u31_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u32 {
+    position:absolute;
+    left:840px;
+    top:869px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u32_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u33_normal {
+    background-image: url('../旅游线路_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:0px;
+    top:112px;
+    width:1360px;
+    height:30px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1366px;
+    height:36px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:1356px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../旅游线路_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1360px;
+    height:111px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1366px;
+    height:117px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:1356px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:1220px;
+    top:0px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u37_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u38 {
+    position:absolute;
+    left:1100px;
+    top:0px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u38_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u39 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:20px;
+    ;
+    background-color:#33CCFF;;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u39_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u40_normal {
+    background-image: url('../旅游线路_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:320px;
+    top:0px;
+    width:650px;
+    height:110px;
+}
+
+#u40_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:650px;
+    height:110px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:47px;
+    width:646px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:325px;
+    top:118px;
+    width:60px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:398px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:498px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:798px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:698px;
+    top:118px;
+    width:90px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_menu {
+    background-image: url('../旅游线路_files/u47_menu.png');
+}
+
+.u47_menu {
+    position:absolute;
+    left:595px;
+    top:109px;
+    width:99px;
+    height:40px;
+}
+
+#u47_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:37px;
+}
+
+#u48 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:89px;
+    height:30px
+}
+
+.u49_normal {
+    background-image: url('../旅游线路_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:25px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:31px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_menu {
+    background-image: url('../旅游线路_files/u51_menu.png');
+}
+
+.u51_menu {
+    position:absolute;
+    left:84px;
+    top:0px;
+    width:128px;
+    height:120px;
+}
+
+#u51_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:117px;
+}
+
+#u52 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:118px;
+    height:110px
+}
+
+.u53_normal {
+    background-image: url('../旅游线路_files/u53_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:113px;
+    height:25px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../旅游线路_files/u53_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:0px;
+    top:25px;
+    width:113px;
+    height:25px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../旅游线路_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:113px;
+    height:30px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:36px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../旅游线路_files/u53_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:113px;
+    height:25px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:1150px;
+    top:144px;
+    width:30px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:1200px;
+    top:144px;
+    width:30px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_menu {
+    background-image: url('../旅游线路_files/u63_menu.png');
+}
+
+.u63_menu {
+    position:absolute;
+    left:895px;
+    top:109px;
+    width:99px;
+    height:40px;
+}
+
+#u63_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:37px;
+}
+
+#u64 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:89px;
+    height:30px
+}
+
+.u65_normal {
+    background-image: url('../旅游线路_files/u49_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:25px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:31px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:80px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_menu {
+    background-image: url('../旅游线路_files/u67_menu.png');
+}
+
+.u67_menu {
+    position:absolute;
+    left:84px;
+    top:0px;
+    width:128px;
+    height:65px;
+}
+
+#u67_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:62px;
+}
+
+#u68 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:118px;
+    height:55px
+}
+
+.u69_normal {
+    background-image: url('../旅游线路_files/u53_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:113px;
+    height:25px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../旅游线路_files/u53_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:0px;
+    top:25px;
+    width:113px;
+    height:25px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:31px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:109px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:1250px;
+    top:144px;
+    width:100px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
