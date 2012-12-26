@@ -28,29 +28,44 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u15_normal.png");
 }
 
-* html .u18_normal {
+* html .u20_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u18_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u20_normal.png");
 }
 
-* html .u24_normal {
+* html .u22_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u24_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u22_normal.png");
 }
 
-* html .u26_normal {
+* html .u27_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u26_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u27_normal.png");
 }
 
-* html .u37_normal {
+* html .u34_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u37_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u34_menu.png");
 }
 
-* html .u39_normal {
+* html .u36_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u39_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u36_normal.png");
+}
+
+* html .u38_menu {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u38_menu.png");
+}
+
+* html .u40_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u40_normal.png");
+}
+
+* html .u42_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u40_normal.png");
 }
 
 * html .u44_normal {
@@ -58,63 +73,48 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u44_normal.png");
 }
 
-* html .u51_menu {
+* html .u46_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u51_menu.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u40_normal.png");
 }
 
-* html .u53_normal {
+* html .u50_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u53_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u50_menu.png");
 }
 
-* html .u55_menu {
+* html .u52_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u55_menu.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u36_normal.png");
 }
 
-* html .u57_normal {
+* html .u54_menu {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u57_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u54_menu.png");
 }
 
-* html .u59_normal {
+* html .u56_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u57_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u40_normal.png");
 }
 
-* html .u61_normal {
+* html .u58_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u61_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u40_normal.png");
 }
 
 * html .u63_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u57_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u63_normal.png");
 }
 
-* html .u67_menu {
+* html .u65_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u67_menu.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u65_normal.png");
 }
 
-* html .u69_normal {
+* html .u76_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u53_normal.png");
-}
-
-* html .u71_menu {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u71_menu.png");
-}
-
-* html .u73_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u57_normal.png");
-}
-
-* html .u75_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u57_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="旅游景点_files/u76_normal.png");
 }
 
